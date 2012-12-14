@@ -1,0 +1,2 @@
+version=3
+http://search.cpan.org/dist/ZMQ-LibZMQ2/   .*/ZMQ-LibZMQ2-v?(\d[\d.-]*)\.(?:tar(?:\.gz|\.bz2)?|tgz|zip)$
