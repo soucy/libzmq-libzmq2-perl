@@ -15,7 +15,7 @@ Build-Depends: debhelper (>= 9), perl,
  perl (>= 5.13.11) | libtest-simple-perl (>= 0.98)
 Standards-Version: 3.9.4
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libzmq-libzmq2-perl.git
-Vcs-Git: git://git.debian.org/pkg-perl/packages/libzmq-libzmq2-perl.git
+Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libzmq-libzmq2-perl.git
 Homepage: http://search.cpan.org/dist/ZMQ-LibZMQ2/
 
 Package: libzmq-libzmq2-perl
