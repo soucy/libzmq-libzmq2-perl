@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ZMQ-LibZMQ2
-Source: http://search.cpan.org/dist/ZMQ-LibZMQ2/
+Source: https://metacpan.org/release/ZMQ-LibZMQ2/
 Upstream-Contact: Daisuke Maki <daisuke@endeworks.jp>
 
 Files: *

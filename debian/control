@@ -16,7 +16,7 @@ Build-Depends: debhelper (>= 9), perl,
 Standards-Version: 3.9.4
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libzmq-libzmq2-perl.git
 Vcs-Git: git://anonscm.debian.org/pkg-perl/packages/libzmq-libzmq2-perl.git
-Homepage: http://search.cpan.org/dist/ZMQ-LibZMQ2/
+Homepage: https://metacpan.org/release/ZMQ-LibZMQ2/
 
 Package: libzmq-libzmq2-perl
 Architecture: any
