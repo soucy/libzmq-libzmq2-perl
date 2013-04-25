@@ -1,0 +1,16 @@
+*~
+.*.swp
+*.[oa]
+*.l[oa]
+*.so
+*.libs
+*.deps
+.dirstamp
+libtool
+aclocal.m4
+autom4te.cache
+
+debian/files
+debian/*.log
+debian/*.substvars
+debian/libzmq-libzmq2-perl/
