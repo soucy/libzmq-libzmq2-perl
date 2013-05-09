@@ -9,9 +9,11 @@ Build-Depends: debhelper (>= 9), perl,
  libtask-weaken-perl,
  libtest-fatal-perl,
  libtest-requires-perl,
- libtest-tcp-perl,
+ libtest-tcp-perl (>= 1.08),
  libzmq-constants-perl,
  libzmq-dev,
+ libmodule-install-readmefrompod-perl,
+ libextutils-parsexs-perl (>= 2.2.1),
  perl (>= 5.13.11) | libtest-simple-perl (>= 0.98)
 Standards-Version: 3.9.4
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-perl/packages/libzmq-libzmq2-perl.git

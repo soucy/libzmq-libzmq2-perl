@@ -9,7 +9,6 @@
 libtool
 aclocal.m4
 autom4te.cache
-
 debian/files
 debian/*.log
 debian/*.substvars
